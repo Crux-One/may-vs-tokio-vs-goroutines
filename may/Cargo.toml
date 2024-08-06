@@ -1,0 +1,8 @@
+[package]
+name = "may"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+may = "0.3.45"
+zip = "2.1.3"
